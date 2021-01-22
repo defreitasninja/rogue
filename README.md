@@ -1,4 +1,4 @@
-TODO
+# TODO
 
-[ ] Work on the char images
-[ ] Create char movement
+[ ] Work on the char images\
+[ ] Create char movement\
